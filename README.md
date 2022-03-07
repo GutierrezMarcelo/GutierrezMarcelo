@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é Marcelo Gutierrez @GutierrezMarcelo
+- 🌱 Este espaço é destinado a publicar estudos
+- 📫 Para me contactar gutierrez.programmer@hotmail.com
